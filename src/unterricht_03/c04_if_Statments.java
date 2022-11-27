@@ -17,6 +17,11 @@ public class c04_if_Statments {
 
         }
         if (s2%2==0){
+
+
+
+
+
             System.out.println("Zweite grede zahle");
 
         }
