@@ -10,5 +10,12 @@ public class c01_Concatenation {
         double dbl= 3.54;
 
         System.out.println(str1+bl+zahl);
+
+        System.out.println(zahl+dbl);
+
+
+        //System.out.println(str1.concat());
+        System.out.println(str1.concat(" ").concat(str2));
     }
 }
+
