@@ -7,6 +7,8 @@ public class C03_starsWith {
         System.out.println(str.startsWith("java"));
 
         System.out.println(str.startsWith("Java arbeittet sehr hard"));//true
+        System.out.println(str.startsWith("java", 10));//
+
 
 
 
